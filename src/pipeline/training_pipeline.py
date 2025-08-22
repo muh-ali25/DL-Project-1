@@ -92,7 +92,7 @@ def epoch_loop(EPOCHS, model , train_loader, test_loader, optimizer, criterion,d
 
 def main():
     
-    epochs = 1
+    epochs = 150
     
     
     train_dir = "data/processed/train"
