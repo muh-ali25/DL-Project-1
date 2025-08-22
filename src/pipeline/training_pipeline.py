@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch
 import torch.optim as optim
 from src.models.cnn import CNN
-from src.data.loader import get_dataloader
+from src.dataa.loader import get_dataloader
 import matplotlib.pyplot as plt
 
 def training_loop(train_loader, model, optimizer, criterion, device):
