@@ -7,7 +7,7 @@ streamlit==1.46.1
 torch
 torchvision
 pillow
-numpy
+
 
 
 
