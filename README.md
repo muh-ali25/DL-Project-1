@@ -1,4 +1,22 @@
 # DL-Project-1
 
-This project focuses on building a Sentiment Analysis model using Recurrent Neural Networks (RNN), specifically LSTM (Long Short-Term Memory) layers.
-The goal is to classify text (such as movie reviews or tweets) as positive or negative based on the sentiment.
+This project is a Convolutional Neural Network (CNN)-based image classification system that identifies different Desi Indian foods from images.
+It uses deep learning to recognize food items such as:
+
+Biryani
+
+Samosa
+
+Dosa
+
+Chole Bhature
+
+Paneer Tikka
+
+Idli
+
+Paratha
+
+Jalebi
+
+And more…
